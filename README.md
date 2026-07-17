@@ -52,6 +52,13 @@ I'm currently seeking an entry-level remote marketing opportunity where I can co
 - ChatGPT
 
 ---
+<p>
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</p>
+
+<p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=notion,gmail" />
+</p>
 
 # 🌱 Currently Learning
 
@@ -107,3 +114,11 @@ aidanjpressler@gmail.com
 ---
 
 > "The best marketing isn't just creative—it's measurable, customer-focused, and always improving."
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pressleraidan-svg&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pressleraidan-svg&layout=compact)
