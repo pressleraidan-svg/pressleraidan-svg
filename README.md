@@ -5,6 +5,8 @@
 ![Email Marketing](https://img.shields.io/badge/Email-Marketing-success)
 ![AI](https://img.shields.io/badge/AI-Marketing-purple)
 
+![](https://komarev.com/ghpvc/?username=pressleraidan-svg&color=blue&style=flat-square)
+
 Marketing graduate passionate about digital marketing, email marketing, CRM strategy, lifecycle marketing, and AI-powered marketing automation.
 
 I'm currently seeking an entry-level remote marketing opportunity where I can continue learning while helping companies grow through creative, data-driven marketing.
