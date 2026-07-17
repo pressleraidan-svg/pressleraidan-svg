@@ -1,92 +1,109 @@
 # Hi, I'm Aidan Pressler 👋
 
-![Marketing](https://img.shields.io/badge/Marketing-Digital%20Marketing-blue)
-![Email Marketing](https://img.shields.io/badge/Email%20Marketing-CRM-success)
-![AI](https://img.shields.io/badge/AI-Powered%20Marketing-purple)
-![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-brightgreen)
+![Marketing](https://img.shields.io/badge/Digital-Marketing-blue)
+![Email Marketing](https://img.shields.io/badge/Email-Marketing-success)
+![AI](https://img.shields.io/badge/AI-Marketing-purple)
 
-🎓 Marketing graduate with a passion for digital marketing, email marketing, CRM strategy, and AI-powered marketing automation.
+Marketing graduate passionate about digital marketing, email marketing, CRM strategy, lifecycle marketing, and AI-powered marketing automation.
 
-I'm actively looking for an entry-level remote marketing opportunity where I can continue learning while helping companies build stronger customer relationships through data-driven marketing.
-
----
-
-## 🚀 Currently Working On
-
-- AI Email Marketing Automation Portfolio
-- Customer Lifecycle Marketing Projects
-- Email Automation Workflows
-- CRM & Marketing Strategy
-- Building my GitHub marketing portfolio
+I'm currently seeking an entry-level remote marketing opportunity where I can continue learning while helping companies grow through creative, data-driven marketing.
 
 ---
 
-## 📚 Areas of Interest
+# 🚀 Current Projects
+
+📧 AI Email Marketing Automation
+
+- Customer segmentation
+- Lifecycle marketing
+- CRM strategy
+- Email automation
+- A/B testing
+- Marketing analytics
+
+---
+
+# 🛠 Skills
+
+### Marketing
 
 - Email Marketing
 - Marketing Automation
 - CRM Management
 - Lifecycle Marketing
 - Content Marketing
-- Digital Marketing
-- Customer Success
+- Social Media Marketing
 - Marketing Analytics
-- AI for Marketing
+- Copywriting
+- Customer Success
 
----
-
-## 🛠 Marketing & Business Tools
+### Platforms & Tools
 
 - HubSpot
 - ActiveCampaign
 - Mailchimp
+- Hootsuite
+- Google Analytics
 - Microsoft Office
 - Google Workspace
 - Canva
 - GitHub
 - ChatGPT
-- Google Analytics
-- Hootsuite
-- LinkedIn
 
 ---
 
-## 📈 Current Portfolio Project
+# 🌱 Currently Learning
 
-### AI Email Marketing Automation
-
-A complete lifecycle marketing case study demonstrating:
-
-- Customer segmentation
-- Welcome series
-- Abandoned cart automation
-- Post-purchase campaigns
-- Win-back campaigns
-- A/B testing
-- KPI tracking
-- AI-assisted campaign planning
-
-Repository:
-
-👉 **AI Email Marketing Automation**
-
----
-
-## 🌱 Currently Learning
-
-- Marketing Automation
+- Advanced Marketing Automation
 - AI Prompt Engineering
 - CRM Strategy
-- Lifecycle Marketing
+- Email Personalization
 - GitHub
 - Marketing Analytics
 
 ---
 
-## 📫 Connect With Me
+# 📂 Featured Repository
 
-💼 LinkedIn: *linkedin.com/in/aidanpressler*
+## AI Email Marketing Automation
 
-📧 Email: *pressleraidan@gmail.com*
+A complete lifecycle marketing project demonstrating how AI can assist with:
+
+- Welcome Series
+- Abandoned Cart
+- Browse Abandonment
+- Post Purchase
+- VIP Customer Journey
+- Win-Back Campaigns
+- Customer Segmentation
+- KPI Tracking
+
 ---
-*"Great marketing is about solving problems, understanding customers, and continuously improving through data and creativity."*
+
+# 🎯 Career Goals
+
+I'm looking to begin my career in:
+
+- Email Marketing
+- Digital Marketing
+- Marketing Automation
+- CRM
+- Growth Marketing
+- Customer Success
+
+where I can continue developing my skills while contributing to a growing company.
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn:
+linkedin.com/in/aidanpressler
+
+📧 Email:
+aidanjpressler@gmail.com
+
+---
+
+> "The best marketing isn't just creative—it's measurable, customer-focused, and always improving."
