@@ -1,5 +1,10 @@
 # Hi, I'm Aidan Pressler 👋
 
+![Marketing](https://img.shields.io/badge/Marketing-Digital%20Marketing-blue)
+![Email Marketing](https://img.shields.io/badge/Email%20Marketing-CRM-success)
+![AI](https://img.shields.io/badge/AI-Powered%20Marketing-purple)
+![Open to Work](https://img.shields.io/badge/Open%20to-Work-brightgreen)
+
 🎓 Marketing graduate with a passion for digital marketing, email marketing, CRM strategy, and AI-powered marketing automation.
 
 I'm actively looking for an entry-level remote marketing opportunity where I can continue learning while helping companies build stronger customer relationships through data-driven marketing.
